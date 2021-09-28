@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 Olx Clone 🚀 Concluido...  🚧
+	🚧 Cara ou Coroa 🚀 Concluido...  🚧
 </h4>
 
 ## 📚 Descrição
